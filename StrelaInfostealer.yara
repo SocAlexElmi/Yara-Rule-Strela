@@ -108,8 +108,8 @@ rule Strela {
         $domains_4 = "endpointexperiment.com"
         $domains_5 = "apitestlabs.com"
         $ioc_IP = "IP"
-        $ioc_94.159.113.48 = "94.159.113.48"
-        $ioc_19.143.1.231 = "193.143.1.231"
+        $ip_1 = "94.159.113.48"
+        $ip_2 = "193.143.1.231"
     condition:
         any of them
 }
