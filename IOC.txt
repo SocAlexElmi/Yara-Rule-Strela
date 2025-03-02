@@ -1,5 +1,5 @@
 # Strela Infostealer IOC List
-SHA256
+# SHA256 hashes
 dcd7dd2aaef3e87b467ce4e4682a63d2d01da20e31fada494435ae8a921c09a
 75d996a0a5262bff134d7a752efd1fb6325bc2ce347b084967e06725008180f9 
 c5279ff9c215afbd5c54793c6fc36c80d2cefb0342a1471581b15e43bd4a9b08 
@@ -96,14 +96,14 @@ cd39bec789b79d9ea6a642ab2ddc93121f5596de21e3b13c335ceaddb83f2083
 b9ae263904d3a5fb8471a0f8ab95fcbb224f632e6185e3a110e8d5aed9785420
 e6ff1872f3da3485fa55c36405abf69d8160b93b2d92cebcc06ec0ce064d054d
 
-Domains
+# Domains
 vaultdocker[.]com 
 cloudslimit[.]com 
 dailywebstats[.]com 
 endpointexperiment[.]com
 apitestlabs[.]com 
 
-IP
+# IP Addresses
 94[.]159[.]113[.]48 
 193[.]143[.]1[.]231 
 
