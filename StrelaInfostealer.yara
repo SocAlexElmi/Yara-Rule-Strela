@@ -4,7 +4,7 @@ rule Strela {
         author = "Alex Flores"
         date = "2025-03-02"
     strings:
-        # Strela Infostealer IOC List = "# Strela Infostealer IOC List"
+        //Strela Infostealer IOC List
         $ioc_SHA256 = "SHA256"
         $ioc_1 = "dcd7dd2aaef3e87b467ce4e4682a63d2d01da20e31fada494435ae8a921c09a"
         $ioc_2 = "75d996a0a5262bff134d7a752efd1fb6325bc2ce347b084967e06725008180f9"
